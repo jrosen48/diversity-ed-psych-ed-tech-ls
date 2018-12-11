@@ -4,6 +4,7 @@
   - Computers & Education
   - Educational Technology Research and Development
   - Journal of Computer Assisted Learning
+  - Journal of Research on Technology in Education
 - LS journals:
   - Journal of the Learning Sciences
   - Cognition and Instruction
